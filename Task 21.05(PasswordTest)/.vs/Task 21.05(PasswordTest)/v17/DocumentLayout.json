@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task 21.05(PasswordTest)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4943660B-D858-4EB3-AA70-C11BF4F25AE8}|Task 21.05(PasswordTest)\\Task 21.05(PasswordTest).csproj|c:\\users\\user\\desktop\\task 21.05(passwordtest)\\task 21.05(passwordtest)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4943660B-D858-4EB3-AA70-C11BF4F25AE8}|Task 21.05(PasswordTest)\\Task 21.05(PasswordTest).csproj|solutionrelative:task 21.05(passwordtest)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task 21.05(PasswordTest)\\Task 21.05(PasswordTest)\\Program.cs",
+              "RelativeDocumentMoniker": "Task 21.05(PasswordTest)\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task 21.05(PasswordTest)\\Task 21.05(PasswordTest)\\Program.cs",
+              "RelativeToolTip": "Task 21.05(PasswordTest)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:09:10.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
